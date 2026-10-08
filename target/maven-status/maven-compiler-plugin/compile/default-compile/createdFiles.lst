@@ -1,0 +1,6 @@
+model\AlatManual.class
+Controller\AlatController.class
+Main\Main.class
+model\AlatPosyandu.class
+view\AlatView.class
+model\AlatDigital.class
